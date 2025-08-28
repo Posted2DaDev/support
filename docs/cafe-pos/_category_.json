@@ -1,0 +1,8 @@
+{
+    "label": "CafePOS Lite",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "Anything and everything related to our CafePOS system."
+    }
+}
