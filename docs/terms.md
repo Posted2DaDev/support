@@ -13,7 +13,7 @@ Our TOS may change at any moment without any prior notification. Be sure to chec
 :::
 
 ### <font color="#C21807">[1] Branding</font>
-Our branding is to remain on products, though may be removed if given special permission from Devs Stuff Management.
+Our branding is to remain on products, though may be removed if given special permission from prplSolutions Management.
 
 ### <font color="#C21807">[2] Custom GUIs</font>
 We encourage you to make custom GUI's for our products, however we will not provide support for it.
@@ -29,7 +29,7 @@ Do not attempt to deobfuscate our code. We can detect any shenanigance you perfo
 We do not offer refunds.
 
 ### <font color="#C21807">[6] Copying</font>
-Copying, or attempting to copy our products, or any part related to such, will result in a blacklist from all games with Devs Stuff products.
+Copying, or attempting to copy our products, or any part related to such, will result in a blacklist from all games with prplSolutions products.
 
 ### <font color="#C21807">[7] Group Requirement</font>
 The game owner must be in our group for products to function. Partners have an exception.
@@ -42,6 +42,6 @@ Breaching our Terms of Service may result in licences being revoked, or being bl
 
 :::
 
-All products contain a "blacklist" system, preventing people, or groups, who were blacklisted by Devs Stuff from joining games with our products in it. This cannot be disabled.
+All products contain a "blacklist" system, preventing people, or groups, who were blacklisted by prplSolutions from joining games with our products in it. This cannot be disabled.
 If a user/group poses a threat to our operations, blacklists will be issued, though this cannot occur as a result of external drama.
 We reserve the right to remove licences, or blacklist users and groups at our discretion, with or without reason.
