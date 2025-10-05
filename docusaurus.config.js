@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Devs Stuff Support",
-  tagline: "All there is to know about BloxStreet",
+  tagline: "All there is to know about prplSolutions",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -59,7 +59,7 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: "BloxStreet Support",
+        title: "prplSolutions Support",
         items: [],
       },
       footer: {
