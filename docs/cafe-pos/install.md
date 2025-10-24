@@ -14,11 +14,11 @@ A rule of thumb for our products is to ALWAYS download it from our official Disc
 
 ### <font color="#C21807">Downloading the Product</font>
 
-After purchasing CafePOS Lite, head over to the respective channel and download the files named "CafePOSLITE.rbxm" and "POSCode.rbxm," and insert them into workspace.
+After purchasing CafePOS Lite, head over to the respective channel and download the files named "CafePOSLITE.rbxm" and "PRPLCode-PUBLIC.rbxm,". Put CafePOSLITE.rbxm in the workspace, and PRPLCode-PUBLIC.rbxm in ServerStorage.
 
 ### <font color="#C21807">Preparing the Game</font>
 
-For products to work, the games owner must be in the easyPOS group, unless they're affiliated with us.
+For products to work, the games owner must be in the prplSolutions group, unless they're affiliated with us.
 
 HTTP requests must be enabled. (Enable it in Home -> Game Settings -> Security -> Allow HTTP Requests, then press Save.)
 
